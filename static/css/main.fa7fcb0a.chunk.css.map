@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,mBACE,UAAW,CACX,YACF,CAEA,MACE,yBAA2B,CAC3B,sBACF","file":"main.fa7fcb0a.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\n.leaflet-container {\n  width: 100%;\n  height: 100vh;\n}\n\n.my-0 {\n  margin-bottom: 0 !important;\n  margin-top: 0 !important;\n}"]}
