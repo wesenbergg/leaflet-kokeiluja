@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: steelblue;
 }
 
 .leaflet-container {
@@ -7,7 +8,30 @@ body {
   height: 100vh;
 }
 
+#weather {
+  height: 100vh;
+}
+
 .my-0 {
   margin-bottom: 0 !important;
   margin-top: 0 !important;
+}
+
+.bg-blue {
+  background-color: steelblue;
+  border-radius: 30px;
+}
+
+.w-100 {
+  width: 100px !important;
+  float: right;
+}
+
+.font-300 {
+  font-size: 80px;
+  text-align: right;
+}
+
+.celsius {
+  float: right;
 }
