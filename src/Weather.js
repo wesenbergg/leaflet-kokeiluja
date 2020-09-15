@@ -28,7 +28,7 @@ const Weather = () => {
         </small>
       </span>
       <div className="col-6 d-none d-md-block p-0 m-0">
-        <div className="bg-blue w-100">
+        <div className="bg-blue w-100 ml-3">
           <img id="wicon" src={`http://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`} alt="Weather icon" />
         </div>
         <div className="celsius d-inline-block text-right">
