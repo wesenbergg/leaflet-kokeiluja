@@ -15,7 +15,7 @@ class Routing extends MapLayer {
             L.latLng(60.21825196984328, 25.05910387617357),
             L.latLng(60.21825196984328, 25.05910387617357)
         ],
-        routeWhileDragging: false,
+        routeWhileDragging: true,
         geocoder: L.Control.Geocoder.nominatim()
       }
       ).addTo(map.leafletElement);
