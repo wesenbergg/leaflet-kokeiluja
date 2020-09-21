@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "987dfe84807a8a1e104857f72737bbcb",
+    "revision": "7ccf15b829e3295d221f4bfc4ab4d9f7",
     "url": "/leaflet-kokeiluja/index.html"
   },
   {
-    "revision": "09165845cd5cc6dc0bb2",
+    "revision": "6c654d4d686f5cd27605",
     "url": "/leaflet-kokeiluja/static/css/main.994d604a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leaflet-kokeiluja/static/js/2.7d923b08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09165845cd5cc6dc0bb2",
-    "url": "/leaflet-kokeiluja/static/js/main.bd0a43b0.chunk.js"
+    "revision": "6c654d4d686f5cd27605",
+    "url": "/leaflet-kokeiluja/static/js/main.36b98b6c.chunk.js"
   },
   {
     "revision": "21597d5a35bc66e74daf",
