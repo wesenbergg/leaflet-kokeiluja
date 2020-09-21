@@ -28,10 +28,51 @@ body {
 }
 
 .font-300 {
-  font-size: 80px;
+  font-size: 40px;
   text-align: right;
 }
 
 .celsius {
   float: right;
+}
+
+.leaflet-routing-container:last-of-type {
+  display: none;
+}
+
+#weather {
+  opacity: 1;
+  position: absolute;
+  bottom: 50px;
+  right: 10px;
+  height: 400px;
+  width: 300px;
+  z-index: 999;
+}
+
+.transparent, .leaflet-routing-container {
+  background-color:rgba(0, 0, 0, 0.66) !important;
+}
+
+.leaflet-routing-container, .leaflet-routing-icon {
+  color: aliceblue;
+  
+}
+
+.leaflet-routing-icon {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.leaflet-routing-container tr:hover{
+  background-color: rgba(255, 255, 255, 0.33);
+  color: aliceblue;
+}
+
+.hide {
+  height: 185px !important;
+}
+
+.exp-txt {
+  margin-left: -50px;
+  padding-left: 50%;
 }
