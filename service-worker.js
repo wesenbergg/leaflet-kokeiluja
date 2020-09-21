@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/leaflet-kokeiluja/precache-manifest.9e8085e12032d5ba653dc65dc6aac3a3.js"
+  "/leaflet-kokeiluja/precache-manifest.fd850333b0d57468b12805032d74727e.js"
 );
 
 self.addEventListener('message', (event) => {

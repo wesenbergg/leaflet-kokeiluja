@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/leaflet-kokeiluja/static/css/main.994d604a.chunk.css",
-    "main.js": "/leaflet-kokeiluja/static/js/main.cc676449.chunk.js",
-    "main.js.map": "/leaflet-kokeiluja/static/js/main.cc676449.chunk.js.map",
+    "main.js": "/leaflet-kokeiluja/static/js/main.01afc92c.chunk.js",
+    "main.js.map": "/leaflet-kokeiluja/static/js/main.01afc92c.chunk.js.map",
     "runtime-main.js": "/leaflet-kokeiluja/static/js/runtime-main.73d2c8a1.js",
     "runtime-main.js.map": "/leaflet-kokeiluja/static/js/runtime-main.73d2c8a1.js.map",
     "static/js/2.7d923b08.chunk.js": "/leaflet-kokeiluja/static/js/2.7d923b08.chunk.js",
     "static/js/2.7d923b08.chunk.js.map": "/leaflet-kokeiluja/static/js/2.7d923b08.chunk.js.map",
     "index.html": "/leaflet-kokeiluja/index.html",
-    "precache-manifest.9e8085e12032d5ba653dc65dc6aac3a3.js": "/leaflet-kokeiluja/precache-manifest.9e8085e12032d5ba653dc65dc6aac3a3.js",
+    "precache-manifest.fd850333b0d57468b12805032d74727e.js": "/leaflet-kokeiluja/precache-manifest.fd850333b0d57468b12805032d74727e.js",
     "service-worker.js": "/leaflet-kokeiluja/service-worker.js",
     "static/css/main.994d604a.chunk.css.map": "/leaflet-kokeiluja/static/css/main.994d604a.chunk.css.map",
     "static/js/2.7d923b08.chunk.js.LICENSE.txt": "/leaflet-kokeiluja/static/js/2.7d923b08.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.73d2c8a1.js",
     "static/js/2.7d923b08.chunk.js",
     "static/css/main.994d604a.chunk.css",
-    "static/js/main.cc676449.chunk.js"
+    "static/js/main.01afc92c.chunk.js"
   ]
 }
