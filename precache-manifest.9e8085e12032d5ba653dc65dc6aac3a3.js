@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59e5d6fc8db423ae95135bd5bac11cd1",
+    "revision": "06ab66aacad098d503c1b98c2bac9929",
     "url": "/leaflet-kokeiluja/index.html"
   },
   {
