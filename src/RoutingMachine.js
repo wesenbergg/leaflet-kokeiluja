@@ -4,11 +4,17 @@ import "leaflet-routing-machine";
 import 'leaflet-control-geocoder';
 import { withLeaflet } from "react-leaflet";
 
+// lat: 60.21825196984328,
+// lng: 25.05910387617357,
 class Routing extends MapLayer {
   createLeafletElement() {
     const { map } = this.props;
     let leafletElement = L.Routing.control(
       {
+        waypoints: [
+            L.latLng(60.21825196984328, 25.05910387617357),
+            L.latLng(60.21825196984328, 25.05910387617357)
+        ],
         routeWhileDragging: false,
         geocoder: L.Control.Geocoder.nominatim()
       }
