@@ -8,6 +8,7 @@ import { withLeaflet } from "react-leaflet";
 // lng: 25.05910387617357,
 class Routing extends MapLayer {
   createLeafletElement() {
+    console.log('Routing: called');
     const { map } = this.props;
     let leafletElement = L.Routing.control(
       {

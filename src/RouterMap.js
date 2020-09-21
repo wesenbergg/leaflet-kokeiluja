@@ -8,13 +8,9 @@ export default class RouterMap extends Component {
     lat: 60.21825196984328,
     lng: 25.05910387617357,
     zoom: 15,
-    isMapInit: false,
   };
   saveMap = map => {
     this.map = map;
-    this.setState({
-      isMapInit: true
-    });
   };
 
 
@@ -27,7 +23,7 @@ export default class RouterMap extends Component {
           url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
         />
         {this.props.showMarkers()}
-        {this.state.isMapInit && <Routing map={this.map} />}
+        {this.map && <Routing map={this.map} />}
       </Map>
       </>
     );
